@@ -174,7 +174,7 @@ Here are the six images for the position above:
 ![alt text][image6]
 
 After the collection process, I had 5442 locations for the first course and 11878 locations for the second track.
-Multiplying this with the 6 views for each location gives just over 50000 training images. I ended up adding
+Multiplying this with the 6 views for each location gives just over 100 000 training images. I ended up adding
 3500 more locations to balance the dataset and successfully complete autonomously driving the second track.
 
 
